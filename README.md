@@ -14,11 +14,3 @@ Setup:
 git clone https://github.com/<your_username>/ToDo-list.git
 
 #Run the index.html file to start the Web App
-
-Development setup:
-# Do your thing: solve a bug or create a new feature
-
-# Stage and commit you changes and push to your fork
-git add .
-git commit -m "Good commit message"
-git push origin master
